@@ -1,0 +1,3 @@
+https://albumentations.ai/ -> Useful for the data Augmentation 
+https://demo.albumentations.ai/ -> to check the data Augmentation 
+https://d2l.ai/chapter_optimization/lr-scheduler.html
